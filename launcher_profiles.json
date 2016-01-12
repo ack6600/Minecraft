@@ -1,0 +1,50 @@
+{
+	"launcherVersion": {
+		"name": "1.6.48",
+		"format": 17
+	},
+	"clientToken": "dd326631-0f8c-4a47-aaf2-7331fdf03a3a",
+	"profiles": {
+		"OptiFine": {
+			"name": "OptiFine",
+			"lastVersionId": "1.8.8-OptiFine_HD_U_G7"
+		},
+		"Modded": {
+			"name": "Modded",
+			"lastVersionId": "1.7.10"
+		},
+		"forge": {
+			"name": "forge",
+			"lastVersionId": "1.8-forge1.8-11.14.4.1577"
+		},
+		"DE_DUST_ELEVEN": {
+			"name": "DE_DUST_ELEVEN"
+		},
+		"Forge": {
+			"name": "Forge",
+			"lastVersionId": "1.7.10-Forge10.13.4.1566-1.7.10"
+		},
+		"Git test": {
+			"name": "Git test",
+			"gameDir": "C:\\Users\\Adam Urish\\git\\Minecraft"
+		},
+		"snap": {
+			"name": "snap",
+			"allowedReleaseTypes": [
+				"release",
+				"snapshot"
+			]
+		}
+	},
+	"selectedUser": "6fe2e379a24047e7aefbf45d3c2f5b17",
+	"selectedProfile": "Git test",
+	"authenticationDatabase": {
+		"6fe2e379a24047e7aefbf45d3c2f5b17": {
+			"displayName": "DE_DUST_ELEVEN",
+			"accessToken": "0dd58a16863a415a9d81c03d204d428c",
+			"userid": "8e548c9ad4e9f38b65dd288275a5d5f7",
+			"uuid": "6fe2e379-a240-47e7-aefb-f45d3c2f5b17",
+			"username": "adamurish@gmail.com"
+		}
+	}
+}
